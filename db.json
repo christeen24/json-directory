@@ -1,7 +1,7 @@
 {
   "profiles": [
-      { "id":1, "name": "john" , "age":21 },
-      { "id":1, "name": "judy" , "age":31 },
-      { "id":1, "name": "tom" , "age":41 }
+      { "fname":"christeen", "lname": "nathaliya" , "dob":"24/12/1996" },
+      { "fname":"lakshika", "lname": "rasangi" , "dob":"18/04/1996" },
+      { "fname":"reuma", "lname": "shemari" , "dob":"1/1/2002" }
   ]
 }
