@@ -1,7 +1,7 @@
 {
   "profiles": [
-      { "fname":"christeen", "lname": "nathaliya" , "dob":"24/12/1996" },
-      { "fname":"lakshika", "lname": "rasangi" , "dob":"18/04/1996" },
-      { "fname":"reuma", "lname": "shemari" , "dob":"1/1/2002" }
+      { "fname":"christeen", "lname": "nathaliya" , "email":"christeen@gmail.com" },
+      { "fname":"lakshika", "lname": "rasangi" , "email":"lakshika@gmail.com" },
+      { "fname":"reuma", "lname": "shemari" , "email":"reuma@gmail.com" }
   ]
 }
